@@ -43,3 +43,76 @@
    43  git status
    44  git diff
    45  history
+    46  nano calcy.py
+   47  git diff
+   48  ls
+   49  git status
+   50  git add .
+   51  git status
+   52  git reset
+   53  git status
+   54  touch .gitignore
+   55  nano .gitignore
+   56  git status
+   57  ls
+   58  git add .
+   59  git status
+   60  git commit -m "final commit"
+   61  git log
+   62  history
+   63  cat .gitignore
+   64  git remote add origin https://github.com/gopal1409/project2.git
+   65  git push -u origin master
+   66  history
+   67  git push -u origin master
+   68  ls
+   69  git branch
+   70  git branch ai
+   71  git branch
+   72  git checkout ai
+   73  git branch
+   74  git reset
+   75  git branch
+   76  git reflog
+   77  history
+   78  nano calcy.py
+   79  git add .
+   80  git commit -m "in ai branch"
+   81  git log
+   82  git push origin ai
+   83  git branch -a
+   84  history
+   85  cat calcy.py
+   86  git checkout master
+   87  cat calcy.py
+   88  history
+   89  git branch
+   90  git branch master
+   91  git checkout master
+   92  git branch
+   93  git branch ml
+   94  git branch
+   95  git checkout ml
+   96  git checkout master
+   97  git checkout ai
+   98  cat calcy.py
+   99  git branch
+  100  git branch aai
+  101  cat calcy.py
+  102  git branch
+  103  git checkout aai
+  104  cat calcy.py
+  105  clear
+  106  git branch
+  107  nano calcy.py
+  108  git add .
+  109  git commit -m "this happen in aai"
+  110  git status
+  111  git branch
+  112  git checkout master
+  113  git merge ai
+  114  git branch
+  115  cat calcy.py
+  116  history
+root@ip-172-31-92-13:~/project# git diff
+root@ip-172-31-92-13:~/project
