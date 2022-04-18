@@ -1,0 +1,45 @@
+ 1  apt-get update
+    2  apt-get install git
+    3  git --version
+    4  history
+    5  hostname
+    6  clear
+    7  mkdir project
+    8  cd project/
+    9  git status
+   10  git init
+   11  ls -la
+   12  rm -rf .git
+   13  git status
+   14  git init
+   15  cd .git
+   16  ls
+   17  history
+   18  git config --global user.name "gopal das"
+   19  git config --global user.email "gopal1409@gmail.com"
+   20  history
+   21  clear
+   22  git status
+   23  cd ..
+   24  git status
+   25  touch calcy.py
+   26  touch DS_Store
+   27  touch auth
+   28  git status
+   29  git add calcy.py
+   30  git commit -m "first commit"
+   31  git status
+   32  git log
+   33  history
+   34  clear
+   35  git status
+   36  git commit -m "second commit"
+   37  nano calcy.py
+   38  git status
+   39  git add calcy.py
+   40  git commit -m "modified caly.py"
+   41  git log
+   42  nano calcy.py
+   43  git status
+   44  git diff
+   45  history
